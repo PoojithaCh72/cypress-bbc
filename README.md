@@ -27,6 +27,6 @@ npx cypress open
 
 ### 3. Run the Spec File
 
-1. Select a Browser to run E2E Testing 
+1. Select a browser to run E2E Testing 
 2. After opening the browser
 3. Under E2E specs, select the test files and run them accordingly
